@@ -1,0 +1,16 @@
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\controller\UserController.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\configuration\SwaggerConfiguration.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\configuration\ApplicationConfiguration.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\utils\MailService.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\utils\Token.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\exception\FudooGlobalException.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\services\IUserService.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\model\UserDetailsModel.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\dto\ResponseDTO.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\dto\UserRegistrationDTO.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\repository\UserRepository.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\services\UserService.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\exception\UserException.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\dto\ResponseLoginDTO.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\dto\UserLoginDTO.java
+C:\Users\Varsha Manwal\Desktop\BridgeLabz\CFP_Batch-051\Microservices_AWS_Deployment\UserService\src\main\java\com\microservices\userservice\UserServiceApplication.java
