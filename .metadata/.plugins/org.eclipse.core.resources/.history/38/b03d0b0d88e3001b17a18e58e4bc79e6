@@ -1,0 +1,5 @@
+package com.microservices.notesservice.service;
+
+public class CollabaretorService {
+
+}

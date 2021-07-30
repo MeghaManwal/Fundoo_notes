@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.microservices.zuulserver.filters.PreFilter"/>
+    <fullyQualifiedTypeName name="com.microservices.zuulserver.filters.PostFilter"/>
+    <fullyQualifiedTypeName name="com.microservices.zuulserver.filters.RouteFilter"/>
+    <fullyQualifiedTypeName name="com.microservices.zuulserver.filters.ErrorFilter"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.zuul.EnableZuulProxy"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.exception.UserException"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnoreProperties"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.repository.ICollabaratorRepository"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.utils.Token"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.utils.MailService"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.exception.CollabaretorException"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.repository.ILabelRepository"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.exception.LabelException"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.repository.INoteRepository"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.model.UserDetailsModel"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.exception.NoteException"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.service.ICollabaretorService"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.model.CollaboratorDetailsModel"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.service.ILabelService"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.model.LabelDetailsModel"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.dto.LabelDTO"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.dto.EditLabelDTO"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.service.INoteService"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.dto.NoteDetailsDTO"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.dto.ResponseDTO"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.model.NoteDetailsModel"/>
+    <fullyQualifiedTypeName name="com.microservices.notesservice.dto.EditNote"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+    <fullyQualifiedTypeName name="org.springframework.cache.annotation.EnableCaching"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.services.IUserService"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.utils.Token"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.dto.UserRegistrationDTO"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.dto.ResponseDTO"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.model.UserDetailsModel"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.dto.ResponseLoginDTO"/>
+    <fullyQualifiedTypeName name="com.microservices.userservice.dto.UserLoginDTO"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+package com.microservices.userservice.configuration;
+
+public class SwaggerConfiguration {
+
+}

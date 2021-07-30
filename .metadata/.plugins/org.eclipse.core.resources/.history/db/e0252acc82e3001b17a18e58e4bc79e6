@@ -1,0 +1,5 @@
+package com.microservices.userservice.dto;
+
+public class UserRegistrationDTO {
+
+}

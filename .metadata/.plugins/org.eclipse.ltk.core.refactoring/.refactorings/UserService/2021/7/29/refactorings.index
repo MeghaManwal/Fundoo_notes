@@ -1,0 +1,7 @@
+1626143362685	Rename type 'UserDataDTO'
+1626143669853	Delete element
+1626143693598	Rename type 'GlobalExceptionHandler'
+1626143751486	Rename type 'UserDataException'
+1626143911928	Rename compilation unit 'UserData.java'
+1626143987105	Rename compilation unit 'UserDataRepository.java'
+1626144156187	Rename type 'EmailService'
